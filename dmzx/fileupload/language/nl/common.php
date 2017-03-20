@@ -48,6 +48,5 @@ $lang = array_merge($lang, array(
 	'FILEUPLOAD_SUCCEEDED'						=> 'Upload Gelukt!',
 	'FILEUPLOAD_DIRECT_LINK'					=> 'Directe link',
 	'FILEUPLOAD_URL_LINK'						=> 'URL',
-	'FILEUPLOAD_FILE_LINK'						=> 'BESTAND',
 	'FILEUPLOAD_BY'							=> 'Bestand geupload door',
 ));
